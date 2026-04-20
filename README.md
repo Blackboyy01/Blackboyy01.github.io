@@ -1,21 +1,39 @@
-# [ADEBISI FAROUK ] - Data Analysis Portfolio
+# ADEBISI FAROUK  - My Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio.
 
-## About This Portfolio Template
+## About My Portfolio 
 
-This portfolio is designed to demonstrate skills in:
+My portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
 - Data modeling and analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable business insights
 
-## 🚀 Projects
+##  Projects
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+   
+   **Project Title**: 
+   
+Monday Coffee Sales and Market Expansion
+
+**Project Description**:
+A business data analysis projects evaluating transactions across 10 Indian cities to guide physical store expansion. This project transformed raw sales and demographic data into a strategic roadmap, focusing on revenue performance, market penetration, and cost efficiency.
+
+ **Tools Used**
+- MySQL 
+- Analytical Techniques: Window Functions, Common Table Expressions (CTEs), and Aggregate Calculations.
+- Business Metrics: Customer Lifetime Value (CLV), MoM Growth, and Rent-to-Revenue ratios.
+
+ **Key Insights**
+ 
+- Top Performers: Identified Pune, Chennai, and Bangalore as the highest value markets, with Pune achieving a peak average spend of ₹24,197 per customer.
+- Growth Opportunity: Discovered a major penetration gap in Delhi, which holds 7.75M potential consumers but remains underutilized compared to smaller, high conversion cities.
+- Operational Efficiency: Verified Pune as the most profitable expansion candidate due to its low rent per customer (₹294) and high revenue yield.
+- Product Strategy: Validated Cold Brew and Ground Espresso as the primary inventory priorities, contributing the majority of total sales volume.
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
