@@ -36,7 +36,26 @@ A business data analysis projects evaluating transactions across 10 Indian citie
 - Product Strategy: Validated Cold Brew and Ground Espresso as the primary inventory priorities, contributing the majority of total sales volume.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+
+***Browns Mini Store Sales Analytics** 
+
+**Project Description**
+
+An end to end data pipeline and interactive dashboard developed entirely in Microsoft Excel. This project transformed raw transactions into a structured analytical model to diagnose revenue volatility and channel performance. I built an automated ETL pipeline using Power Query to transition the business from manual reporting to real time, evidence based decision making.
+
+ **Tools Used**
+Microsoft Excel
+-Power Query
+-Pivot Tables and Slicers
+-Advanced Formulas
+ 
+**Key Insights**
+
+ - **Channel Dominance:** Supermarket Type 3 identified as the primary revenue engine ($3.69M), outperforming other formats by up to 85% and warranting priority capital allocation.
+ - **Category Anchors:** Revenue is heavily concentrated in Fruits, Vegetables, and Snack Foods ($3M each), which generate 20x more income than underperforming categories like Seafood.
+- **Recovery Resilience:** Data revealed a massive 873% revenue rebound from the 1998 trough, proving strong brand equity and market demand despite historical volatility.
+- **Concentration Risk:** Flagged a 50% performance drop off between top tier and second tier SKUs, highlighting a dependency on a narrow product set that requires portfolio diversification.
+
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
