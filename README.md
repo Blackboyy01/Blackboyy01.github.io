@@ -37,13 +37,14 @@ A business data analysis project evaluating transactions across 10 Indian cities
 
 **Project Description**
 
-An end-to-end data pipeline and interactive dashboard developed entirely in Microsoft Excel. This project transformed raw transactions into a structured analytical model to diagnose revenue volatility and channel performance. I built an automated ETL pipeline using Power Query to transition the business from manual reporting to real-time, evidence-based decision-making.
+An end-to-end data pipeline and interactive dashboard developed entirely in Microsoft Excel. This project transformed raw transactions into a structured analytical model to diagnose revenue volatility and channel performance. I built an automated ETL pipeline using Power Query to transition the business from manual reporting to real-time, evidence-based decision-making. I identified $3.69M top-performing outlet type and concentration risks in the product portfolio to guide strategic expansion priorities
 
  **Tools Used**
-Microsoft Excel
--Power Query
--Pivot Tables and Slicers
--Advanced Formulas
+ 
+- Microsoft Excel
+- Power Query
+- Pivot Tables and Slicers
+- Advanced Formulas
  
 **Key Insights**
 
