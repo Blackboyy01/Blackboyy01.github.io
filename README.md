@@ -12,11 +12,7 @@ My portfolio is designed to demonstrate skills in:
 
 ##  Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
 ### Project One
-   
-   **Project Title**: 
    
 Monday Coffee Sales and Market Expansion
 
@@ -76,7 +72,7 @@ End-to-end analytics project transforming 2022 transactional data into actionabl
 **Key Insights**:
 
 - Revenue: $2.30M | Profit Margin: 12.5% (opportunity gap identified)
-- Q4 accounts for 42% of annual sales—heavy seasonal concentration
+- Q4 accounts for 42% of annual sales, with heavy seasonal concentration
 - The technology category drives 36% of revenue with the highest margins
 - Consumer segment delivers 46.8% of total profit despite lower order count
 - Loss-making products (-$17K) and uncontrolled discounting compress margins by 3–5% points
@@ -101,7 +97,7 @@ SQL-based analytics project analyzing retail transactions ($908K revenue) across
 - Electronics leads revenue ($311K); Clothing drives the highest order volume (698 orders, 149 unique buyers)
 - Evening shift dominates: 53%+ of orders occur after 5 PM; morning/afternoon is underutilized
 - The top customer generated $38K in lifetime spend with no retention program in place
-- Beauty category skews toward mature demographic (avg. age 40.4 yrs)—untapped targeting opportunity
+- Beauty category skews toward mature demographic (avg. age 40.4 yrs);untapped targeting opportunity
 - Peak months (July 2022, February 2023) show predictable demand cycles for promotional planning
 
 ##  Skills
