@@ -106,10 +106,8 @@ SQL-based analytics project analyzing retail transactions ($908K revenue) across
 
 ##  Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
-
-- **Data Visualization**: Excel, Power BI, etc.
-- **Data Analysis**: SQL, Excel, etc.
+- **Data Visualization**: Excel, Power BI
+- **Data Analysis**: SQL, Excel
 
 **THANK YOU**
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
