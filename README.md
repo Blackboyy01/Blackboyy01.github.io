@@ -14,14 +14,14 @@ My portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
+### Project One
    
    **Project Title**: 
    
 Monday Coffee Sales and Market Expansion
 
 **Project Description**:
-A business data analysis projects evaluating transactions across 10 Indian cities to guide physical store expansion. This project transformed raw sales and demographic data into a strategic roadmap, focusing on revenue performance, market penetration, and cost efficiency.
+A business data analysis project evaluating transactions across 10 Indian cities to guide physical store expansion. This project transformed raw sales and demographic data into a strategic roadmap, focusing on revenue performance, market penetration, and cost efficiency.
 
  **Tools Used**
 - MySQL 
@@ -35,13 +35,13 @@ A business data analysis projects evaluating transactions across 10 Indian citie
 - Operational Efficiency: Verified Pune as the most profitable expansion candidate due to its low rent per customer (₹294) and high revenue yield.
 - Product Strategy: Validated Cold Brew and Ground Espresso as the primary inventory priorities, contributing the majority of total sales volume.
 
-### Project Title Two
+### Project Two
 
 ***Browns Mini Store Sales Analytics** 
 
 **Project Description**
 
-An end to end data pipeline and interactive dashboard developed entirely in Microsoft Excel. This project transformed raw transactions into a structured analytical model to diagnose revenue volatility and channel performance. I built an automated ETL pipeline using Power Query to transition the business from manual reporting to real time, evidence based decision making.
+An end-to-end data pipeline and interactive dashboard developed entirely in Microsoft Excel. This project transformed raw transactions into a structured analytical model to diagnose revenue volatility and channel performance. I built an automated ETL pipeline using Power Query to transition the business from manual reporting to real-time, evidence-based decision-making.
 
  **Tools Used**
 Microsoft Excel
@@ -54,44 +54,63 @@ Microsoft Excel
  - **Channel Dominance:** Supermarket Type 3 identified as the primary revenue engine ($3.69M), outperforming other formats by up to 85% and warranting priority capital allocation.
  - **Category Anchors:** Revenue is heavily concentrated in Fruits, Vegetables, and Snack Foods ($3M each), which generate 20x more income than underperforming categories like Seafood.
 - **Recovery Resilience:** Data revealed a massive 873% revenue rebound from the 1998 trough, proving strong brand equity and market demand despite historical volatility.
-- **Concentration Risk:** Flagged a 50% performance drop off between top tier and second tier SKUs, highlighting a dependency on a narrow product set that requires portfolio diversification.
+- **Concentration Risk:** Flagged a 50% performance drop off between top-tier and second-tier SKUs, highlighting a dependency on a narrow product set that requires portfolio diversification.
 
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Three
+
+ **Tunia Technologies – Sales & Performance Dashboard**
+ 
+**Description:**
+
+End-to-end analytics project transforming 2022 transactional data into actionable business intelligence. Built a comprehensive Excel dashboard analyzing 9,994 sales transactions across product categories, customer segments, and regions. Identified profitability gaps and delivered 5 strategic recommendations to improve profit by $150K–$250K annually.
+
+**Tools Used**:
+
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Advanced Formulas
+
+  
+**Key Insights**:
+
+- Revenue: $2.30M | Profit Margin: 12.5% (opportunity gap identified)
+- Q4 accounts for 42% of annual sales—heavy seasonal concentration
+- The technology category drives 36% of revenue with the highest margins
+- Consumer segment delivers 46.8% of total profit despite lower order count
+- Loss-making products (-$17K) and uncontrolled discounting compress margins by 3–5% points
 
 
-## 🛠️ Skills
+  ### Project Four
+  
+**Edison Retail Sales Analysis: SQL Business Intelligence**
+
+**Description**:
+
+SQL-based analytics project analyzing retail transactions ($908K revenue) across Clothing, Beauty, and Electronics categories. Delivered 10 structured queries uncovering customer segments, seasonal trends, and operational patterns. Identified VIP customers, peak trading hours, and category-specific demographics for targeted growth.
+
+**Tools Used**:
+
+- MySQL
+-  SQL (Window Functions, CTEs, CASE Statements)
+-   Date/Time Functions
+  
+**Key Insights**:
+
+- Electronics leads revenue ($311K); Clothing drives the highest order volume (698 orders, 149 unique buyers)
+- Evening shift dominates: 53%+ of orders occur after 5 PM; morning/afternoon is underutilized
+- The top customer generated $38K in lifetime spend with no retention program in place
+- Beauty category skews toward mature demographic (avg. age 40.4 yrs)—untapped targeting opportunity
+- Peak months (July 2022, February 2023) show predictable demand cycles for promotional planning
+
+##  Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Excel, Power BI, etc.
 - **Data Analysis**: SQL, Excel, etc.
+
+**THANK YOU**
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
