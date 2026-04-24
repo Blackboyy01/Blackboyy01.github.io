@@ -48,6 +48,22 @@
     .contact-links i {
         font-size: 1.2rem;
     }
+
+    .project-subheading {
+        width: 100%;
+        margin: 40px 0 16px 0;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        border-bottom: 1px solid currentColor;
+        padding-bottom: 8px;
+        opacity: 0.75;
+    }
+
+    .project-subheading:first-of-type {
+        margin-top: 10px;
+    }
 </style>
 ```
 
@@ -92,9 +108,7 @@
             <!--💡UPDATE: Change the image to your own profile photo in assets/images/-->
             <img src="assets/images/profile.jpg" alt="Your Name" class="profile-photo">
             <div class="about-text">
-                <!--💡UPDATE: Write your own 'About Me' text here-->
-                <p>I'm a data professional with expertise in transforming complex datasets into actionable insights. My work focuses on creating interactive visualizations and data-driven stories that help organizations make informed decisions.</p>
-                <p>With experience in Excel, SQL, Power BI and data modeling, I specialize in developing comprehensive reports that reveal hidden patterns and trends in data. This portfolio showcases my projects across various datasets.</p>
+                <p>A Data Analyst who has turned raw transactional records into actionable business intelligence for leadership teams. Built interactive storytelling dashboards that influenced profit optimization strategies. I combine technical precision with a business mindset to uncover what the data is really saying and translate it into decisions that move the needle.</p>
             </div>
         </div>
     </div>
@@ -108,9 +122,11 @@
         <div class="projects-grid">
 
 ```
-        <!--💡UPDATE: Replace this with your own project. Add as many as you like!-->
+        <!-- ── Data Visualization Projects ── -->
+        <h3 class="project-subheading">Data Visualization Projects</h3>
+
         <!-- Project 1 -->
-         <div class="project-card">
+        <div class="project-card">
             <!--💡UPDATE: Add a preview image of your project to assets/images/ -->
             <img src="assets/images/Brown DB.png" alt="Brown's Mini Store Analysis">
             <div class="project-card-content">
@@ -120,7 +136,7 @@
                     <!--💡UPDATE: Add link to your project's code/documentation on GitHub-->
                     <a href="https://github.com/Blackboyy01/Browns-Mini-Store-Sales-Analysis" target="_blank" class="btn">Documentation</a>
                     <!--💡UPDATE: Add link to your live dashboard (e.g., Power BI, Tableau Public)-->
-                 <a href="https://github.com/Blackboyy01/Browns-Mini-Store-Sales-Analysis/blob/main/Brown%20DB.png" target="_blank" class="btn">View Dashboard</a>
+                    <a href="https://github.com/Blackboyy01/Browns-Mini-Store-Sales-Analysis/blob/main/Brown%20DB.png" target="_blank" class="btn">View Dashboard</a>
                 </div>
             </div>
         </div>
@@ -133,11 +149,14 @@
                 <p>End-to-end analytics project transforming 2022 transactional data into actionable business intelligence. Built a comprehensive Excel dashboard analyzing 9,994 sales transactions across product categories, customer segments, and regions. Identified profitability gaps and delivered 5 strategic recommendations to improve profit by $150K–$250K annually.</p>
                 <div class="project-buttons">
                     <a href="https://github.com/Blackboyy01/Tunia-Technologies" target="_blank" class="btn">Documentation</a>
-                      <!--💡UPDATE: Add link to your live dashboard (e.g., Power BI, Tableau Public)-->
-                      <a href="https://github.com/Blackboyy01/Tunia-Technologies/blob/main/Tunia_DB.png" target="_blank" class="btn">View Dashboard</a>
+                    <!--💡UPDATE: Add link to your live dashboard (e.g., Power BI, Tableau Public)-->
+                    <a href="https://github.com/Blackboyy01/Tunia-Technologies/blob/main/Tunia_DB.png" target="_blank" class="btn">View Dashboard</a>
                 </div>
             </div>
         </div>
+
+        <!-- ── Database & SQL Projects ── -->
+        <h3 class="project-subheading">Database &amp; SQL Projects</h3>
 
         <!-- Project 3 -->
         <div class="project-card">
@@ -206,7 +225,7 @@
         <div class="skill-column">
             <div class="skill-header">
                 <i class="fas fa-cogs"></i>
-                <h3>Data Modeling & ETL</h3>
+                <h3>Data Modeling &amp; ETL</h3>
             </div>
             <ul class="skill-list">
                 <li>Power Query (M)</li>
